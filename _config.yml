@@ -21,7 +21,7 @@ author: Katherine S Lasdin
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
+  Projects:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
   Author's home: "https://deanattali.com"
