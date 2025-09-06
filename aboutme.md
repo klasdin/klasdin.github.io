@@ -11,3 +11,4 @@ I grew up in a small town north of Boston, Massachusetts and was always surround
 After graduating from UMAINE, I joined the [Brander lab](https://branderlab.net) at Oregon State University as a master's student. I reserached the abundance of plastics in black rockfish off the Oregon coast. Please see my Publications tab to learn more about this project. 
 
 In 2021, I joined the [Padilla-Gamiño lab](https://padilla-gaminolab.weebly.com) at the University of Washington, School of Aquatic and Fishery Sciences. My current resreach focuses on microplasics, plastic leachates and microbiome samples from Hawai'i and Tetiaroa, French Polynesia. I invite you to see my Projects page to learn more about my current research. 
+
