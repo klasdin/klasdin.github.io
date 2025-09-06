@@ -20,7 +20,6 @@ author: Katherine S Lasdin
 ###############################################
 
 navbar-links:
-  Index: 
   About Me: "aboutme"
   Projects:
     - Plastic Degradation: "https://beautifuljekyll.com"
